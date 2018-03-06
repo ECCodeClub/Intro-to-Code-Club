@@ -1,6 +1,6 @@
 **Intro Activity**
 
-* Clone the repo *
+* Clone the repo 
 
 First of all, you will need to clone the repo onto your laptop. You can do this through the GitHub desktop client or by clicking Clone on this page.
 
